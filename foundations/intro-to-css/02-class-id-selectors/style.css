@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+/* style.css */
+
+.impares {
+	background-color: lightpink;
+	font-size: Verdana, DejaVu, sans-serif;
+}
+
+.adjust-font-size {
+	font-size: 24px;
+}
+
+#par 2 {
+	color: blue;
+	font-size: 36px;
+}
+
+#par 4 {
+	background-color: green;
+	font-size: 24px;
+	font-weight: bold;
+}
